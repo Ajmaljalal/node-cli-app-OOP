@@ -14,8 +14,8 @@ https://watch.screencastify.com/v/FwTjrnsD84s7rEXrIsU7
 
 ## Screeshots
 
-<img width="539" alt="cli-propmpts" src="https://user-images.githubusercontent.com/91281668/145691893-8c6da29c-2d6b-42bc-ad6a-3c1c2e419263.png">
+<img width="580" alt="cli-propmpts" src="https://user-images.githubusercontent.com/91281668/145691893-8c6da29c-2d6b-42bc-ad6a-3c1c2e419263.png">
 
-<img width="724" alt="tests-screen" src="https://user-images.githubusercontent.com/91281668/145691709-a7e11e9d-c59e-40be-aa5b-f86674649a20.png">
+<img width="580" alt="tests-screen" src="https://user-images.githubusercontent.com/91281668/145691709-a7e11e9d-c59e-40be-aa5b-f86674649a20.png">
 
-<img width="551" alt="htm-screen" src="https://user-images.githubusercontent.com/91281668/145691847-b976fb84-111b-49de-ac24-84c745456d21.png">
+<img width="580" alt="htm-screen" src="https://user-images.githubusercontent.com/91281668/145691847-b976fb84-111b-49de-ac24-84c745456d21.png">
