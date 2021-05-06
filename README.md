@@ -1,5 +1,5 @@
-# Node js CLI app for implementing OOP concepts
-this is a node cli app that creates html page based on user input using the OOP concepts.
+# Node js CLI app
+This is a node cli app that creates html page based on user input using the OOP concepts. It was done as part of UC davis coding bootcamp challenges.  
 
 ## To start the app
 From inside the root directory run ```node index.js``` using the commandline and follow the prompts to answer all the questions.
@@ -7,10 +7,6 @@ When decided to exit the program select the ```done``` option from the menu, thi
 
 ## Testing
 To run the test suites type ```npm run test``` from the root directory.
-
-## walkthrough video
-https://watch.screencastify.com/v/FwTjrnsD84s7rEXrIsU7 
-
 
 ## Screeshots
 
